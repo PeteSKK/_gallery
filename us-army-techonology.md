@@ -1,5 +1,6 @@
 ---
 author: PeteSKK
+year: 2012
 image_url: /images/us-army-technology.jpg
 image_thumb: intro/us-army-technology-thumb.jpg
 title: Us Army technology
